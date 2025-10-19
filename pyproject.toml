@@ -1,0 +1,11 @@
+[project]
+name = "flappy-bird"
+version = "0.1.0"
+description = "SethWorks.xyz"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flappy-bird-gymnasium>=0.4.0",
+    "gymnasium>=1.2.1",
+    "numpy>=2.3.4",
+]
