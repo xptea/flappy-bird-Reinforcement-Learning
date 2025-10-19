@@ -3,8 +3,7 @@
 A complete Python project that trains a neural network to autonomously play Flappy Bird using reinforcement learning (REINFORCE algorithm).
 
 ## Demo
-
-[![Watch the video](https://img.youtube.com/vi/FFOPItKyi_8/maxresdefault.jpg)](https://youtu.be/FFOPItKyi_8)
+https://github.com/user-attachments/assets/c91c549a-4912-46ff-8c9e-a54a1b05cb95
 
 ## Features
 
